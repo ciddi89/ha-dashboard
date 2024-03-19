@@ -2,11 +2,11 @@
 
 This is the Code of my HA-Dashboard
 
-### Used Theme
+## Used Theme
 
     Google Theme
 
-### List of used HACS extensions:
+## List of used HACS extensions
 
     apexcharts-card
     auto-entities
@@ -42,7 +42,7 @@ This is the Code of my HA-Dashboard
     Weather Chart Card
     Xiaomi Vacuum Map Card
 
-## Mobile
+## Screenshot of Mobile
 
 ![Mobile](/images/IMG_2138.PNG)
 
