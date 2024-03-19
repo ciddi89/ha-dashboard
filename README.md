@@ -2,7 +2,11 @@
 
 This is the Code of my HA-Dashboard
 
-List of used HACS extensions:
+### Used Theme
+
+    Google Theme
+
+### List of used HACS extensions:
 
     apexcharts-card
     auto-entities
