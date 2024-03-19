@@ -66,6 +66,8 @@ This is the Code of my HA-Dashboard
 
 ![Wohnzimmer-Lights](/images/Bildschirmfoto%202024-03-19%20um%2019.24.23.png)
 
+![Doors](/images/Bildschirmfoto%202024-03-19%20um%2019.58.50.png)
+
 ![Sonos](/images/Bildschirmfoto%202024-03-19%20um%2019.24.41.png)
 
 ![Heizung](/images/Bildschirmfoto%202024-03-19%20um%2019.24.52.png)
